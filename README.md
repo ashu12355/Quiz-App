@@ -97,5 +97,5 @@ Feel free to use, modify, and distribute this application.
 
 Developed by **Ashutosh Sharma**.  
 Feel free to reach out with any suggestions or questions!  
-- GitHub: [@your-username](https://github.com/ashu12355)  
+- GitHub: [@ashu12355](https://github.com/ashu12355)  
 - Email: Sharmaashutosh12355@gmail.com
